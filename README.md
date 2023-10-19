@@ -11,14 +11,12 @@
 
 ```
 $ docker-compose build
-
 ```
 
 1. 開発環境のup
 
 ```
 $ docker-compose up -d
-
 ```
 
 IDEなどの開発環境は各自に任せるものとする。
